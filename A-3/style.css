@@ -1,0 +1,28 @@
+.menubar{
+    background: lightblue;
+    
+}
+.message h1{
+    color: #001cb9;
+    padding-top:100px;
+    border-bottom: 5px solid #001cb9;
+    
+}
+.message p{
+    padding:20px;
+}
+.message img{
+    padding:20px;
+    
+}
+.gallery img{
+    padding-top: 20px;
+}
+.gallery h1{
+    color: #001cb9;
+    padding-top:20px;
+    border-bottom: 5px solid #001cb9;
+}
+.button form{
+    padding-bottom: 00px;
+}
