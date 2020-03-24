@@ -1,0 +1,20 @@
+ Returns an output that can then be shown on the screen. 
+ * The url argument must specify an absolute {@link URL}. The name
+ * argument is a specifier that is relative to the url argument. 
+package runner;
+
+/**
+ *
+ * @author sazid
+ */
+public class Runner {
+
+    public static void main(String[] args) {
+        input i = new input();
+        int a = i.inp();
+        
+        output o = new output();
+        o.out(a);
+    }
+    
+}
