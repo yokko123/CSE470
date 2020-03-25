@@ -1,0 +1,1 @@
+A modal view controller is simply a UIViewController class that is presented modally. When the view controller is presented modally it covers whatever the existing view was (using an animation if specified) and the user most somehow dismiss this view before they can return to what they were doing.
