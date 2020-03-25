@@ -1,0 +1,2 @@
+dll- DLL is a dynamic link library file format used for holding multiple codes and procedures for Windows programs. DLL files were created so that multiple programs could use their information at the same time, aiding memory conservation.
+.cfg- CFG is a configuration file format used for storing settings. CFG files are created by many programs to store information and settings that differ from the factory defaults. CFG files usually appear as text documents, and can be opened by word processors though it is not recommended.
